@@ -1,0 +1,45 @@
+general culture
+level 1
+Cuál es el idioma oficial de Brasil?
+Brasilero
+Italiano
+Portugues
+Frances
+c
+-
+sports
+level 1
+Cada cuántos años se realizan los Juegos Olímpicos?
+3 años
+6 años
+5 años
+4 años
+d
+-
+geography
+level 1
+Cuál es la capital de El Salvador?
+Managua
+San Jose
+San Salvador
+Tegucigalpa
+c
+-
+sciences
+level 1
+Cuál es el cuarto planeta del sistema solar?
+Tierra
+Mercurio
+Venus
+Marte
+d
+-
+arts
+level 1
+Quién escribió "Cien años de soledad"?
+Rafael Pombo
+José Eustasio Rivera
+Jorge Isaacs
+Gabriel García Márquez
+d
+-

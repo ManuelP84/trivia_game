@@ -1,0 +1,45 @@
+general culture
+level 2
+El origen del café proviene de...
+Etiopía
+Egipto
+Indonesia
+Corea
+b
+-
+sports
+level 2
+Qué jugador de fútbol ha ganado más copas del mundo junto a su equipo?
+Messi
+Pelé
+Maradona
+Cristiano Ronaldo
+b
+-
+geography
+level 2
+Cuál es la montaña mas alta del mundo?
+K2
+Kanchenjunga
+Manaslu
+Everest
+d
+-
+sciences
+level 2
+Cuál es el elemento más abundante de la Tierra?
+Oxigeno
+Carbono
+Hidrógeno
+Potasio
+c
+-
+arts
+level 2
+Cuál fue la primera película que apareció de Disney?
+Blancanieves
+La bella y la bestia
+Pinocho
+Fantasía
+a
+-

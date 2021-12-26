@@ -1,0 +1,45 @@
+general culture
+level 3
+En que año se fundó la franquicia de comida rápida McDonalds?
+1945
+1940
+1954
+1947
+a
+-
+sports
+level 3
+Qué animal es la mascota del Giro de Italia? 
+Perro
+Zorro
+Alce
+Lobo
+d
+-
+geography
+level 3
+Cuál es la capital de Marruecos?
+Rabat
+Kiev
+Varsovia
+Moscú
+a
+-
+sciences
+level 3
+Cómo se llama la unidad de intensidad de la corriente eléctrica?
+Voltio
+Amperio
+Ohmio
+Vatio
+b
+-
+arts
+level 3
+Dónde nació el escritor Julio Cortázar?
+Uruguay
+Argentina
+Perú
+Ecuador
+b
+-
