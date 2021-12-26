@@ -3,6 +3,8 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
+3. [Execution](#execution)
+
 
 ### General Info
 ***
@@ -41,3 +43,8 @@ A sqlite3 database is used to store the games.
 ## Technologies
 ***
 * [Python](https://www.python.org/): Version 3.8.10 
+
+## Execution
+***
+The main.py file must be executed in the console.
+```
