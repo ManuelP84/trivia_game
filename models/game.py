@@ -96,7 +96,6 @@ class Game:
         while(questions.__len__()>0):
             
             question_nr = random.randint(0, questions.__len__()-1)
-            print(questions.__getitem__(question_nr)['question'])
             Game.showQuestion(questions, question_nr)        
             option = Game.requestAnswer()
             answer = questions.__getitem__(question_nr)['answer']
